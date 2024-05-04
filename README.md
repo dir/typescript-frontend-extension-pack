@@ -2,6 +2,8 @@
 
 An opinionated selection of popular VS Code extensions for a TypeScript frontend.
 
+Marketplace Link: https://marketplace.visualstudio.com/items?itemName=lukedavis.typescript-frontend-extension-pack
+
 ## Extensions
 
 **Linting/Formatting**
@@ -63,7 +65,7 @@ Although most are probably familiar with [Prettier](https://prettier.io/), I hig
 
 **Setup**
 
-I personally use the following basic setup for my prettier config:
+I recommend this basic starting configuration:
 
 ```json
 {
@@ -73,7 +75,7 @@ I personally use the following basic setup for my prettier config:
 }
 ```
 
-Plugins
+Prettier with plugins can be incredibly powerful. These are the ones I use in my projects.
 
 - `prettier-plugin-tailwindcss`
 - `@ianvsprettier-plugin-sort-imports`
