@@ -8,7 +8,7 @@
     "type": "git",
     "url": "https://github.com/dir/typescript-frontend-extension-pack.git"
   },
-  "version": "1.1.6",
+  "version": "1.2.0",
   "engines": {
     "vscode": "^1.89.0"
   },
