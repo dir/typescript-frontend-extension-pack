@@ -3,6 +3,7 @@
   "displayName": "TypeScript Frontend Extension Pack",
   "publisher": "lukedavis",
   "description": "An opinionated selection of popular VS Code extensions for a TypeScript frontend.",
+  "icon": "icon.png",
   "repository": {
     "type": "git",
     "url": "https://github.com/dir/typescript-frontend-extension-pack.git"
